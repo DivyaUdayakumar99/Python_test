@@ -29,6 +29,7 @@ num5=7.5
 from math import * #giving access to more functions inside math module
 print(round(num5))
 print(floor(num5))
+print(ceil(num5))
 
 
 
