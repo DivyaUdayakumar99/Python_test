@@ -14,7 +14,7 @@ say_hi2(name,age)
 #return statement :- return information from python function
 
 def cube(num):
-    return(num*num*num)
+    return(num*num*num) #anything given after the return stmt will not work
 
 print(cube(3))
 result=cube(5)
